@@ -1,0 +1,26 @@
+系統元件|Visual C++|choco|vcredist140
+系統元件|.NET Framework 4.8|choco|dotnetfx
+瀏覽器|Edge|choco|microsoft-edge
+瀏覽器|Chrome|choco|googlechrome
+瀏覽器|Firefox|choco|firefox
+解壓縮|7-Zip|choco|7zip.install
+解壓縮|WinRAR|choco|winrar
+遠端軟體|TeamViewer|choco|teamviewer
+遠端軟體|Anydesk|choco|anydesk.install
+遠端軟體|TeamViewer|choco|teamviewer
+遠端軟體|WinSCP|choco|winscp.install
+遠端軟體|Putty|choco|putty.install
+文書工具|VSCode|choco|vscode.install
+文書工具|Notepad++|choco|notepadplusplus
+文書工具|Office 365|choco|office365business
+通訊軟體|Telegram|choco|telegram.install
+通訊軟體|WeChat|choco|wechat
+通訊軟體|騰訊QQ|choco|tencentqq
+音樂軟體|Spotify|choco|spotify
+音樂軟體|KKBOX|choco|kkbox
+遊戲軟體|Steam|choco|stema-client
+影音軟體|OBS Studio|choco|obs-studio
+影音軟體|PotPlayer|choco|potplayer
+虛擬主機|VMWare Workstation|choco|vmwareworkstation
+程式語言|Python|choco|python
+程式語言|Visual Studio 2022|choco|visualstudio2022enterprise
