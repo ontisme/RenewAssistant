@@ -24,4 +24,4 @@
 虛擬主機|VMWare Workstation|choco|vmwareworkstation
 程式語言|Python|choco|python
 程式語言|Visual Studio 2022|choco|visualstudio2022enterprise
-防毒軟體|Malwarebytes|malwarebytes
+防毒軟體|Malwarebytes|choco|malwarebytes
